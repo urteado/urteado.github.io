@@ -13,7 +13,7 @@ Hi! I am a PhD candidate in Applied Mathematics working with [Gabriele Sicuro](h
 - High-dimensional asymptotics in machine learning
 - Robust statistics
 - Message-passing algorithms for statistical inference in high dimensions
-- Agent-based modelling
+- Agent-based modelling of socioeconomic phenomena
 
 
 Previously I obtained a MSc in Applied Mathematics from Imperial College London, culminating in a research project on agent-based modelling of opinion formation at the [Bertrand Lab](https://thibaultbertrand.com/), headed by Thibault Bertrand and in collaboration with Prof. Grigorios Pavliotis. I also hold a BA (Hons) Mathematics and Philosophy from King's College London, with a strong focus on applied mathematics, philosophy of language and logic.
