@@ -6,7 +6,7 @@ permalink: /publications/
 
 ---
 - &quot;High-dimensional robust regression under heavy-tailed data: Asymptotics and Universality&quot;, Adomaityte, U., Defilippis, L., Loureiro, B., Sicuro, G., to be presented at the [HeavyTails Workshop](https://sites.google.com/view/heavy-tails-ml-2023/home) at NeurIPS 2023, under review
-[arxiv](https://arxiv.org/abs/2309.16476)]
+[[arxiv](https://arxiv.org/abs/2309.16476)]
 
 - &quot;Classification of Heavy-tailed Features in High Dimensions: a Superstatistical Approach&quot;, Adomaityte, U., Sicuro, G., Vivo, P., NeurIPS 2023 (poster)
 [[NeurIPS](https://neurips.cc/virtual/2023/poster/70963) [arxiv](https://arxiv.org/abs/2304.02912)]
