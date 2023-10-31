@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "title"
+title                    : "Bio"
 title_separator          : "-"
 name                     : &name "Urte"
 description              : &description "PhD student at King's College London"
