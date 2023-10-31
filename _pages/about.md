@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate working with [Gabriele Sicuro](https://gsicuro.github.io/) and Pierpaolo Vivo at King's College London from October 2021. I am also lucky enough to collaborate with researchers at École Normale Supérieure, École Polytechnique Fédérale de Lausanne, the Flatiron Institute and TU Munich.
+I am a PhD candidate working with [Gabriele Sicuro](https://gsicuro.github.io/) and Pierpaolo Vivo at the [Disordered Systems Group](https://dissyskcl.github.io/) at King's College London. I am also lucky enough to collaborate with researchers at École Normale Supérieure, École Polytechnique Fédérale de Lausanne, the Flatiron Institute and TU Munich.
 
 <strong>Research interests:</strong>
 - High-dimensional asymptotics in machine learning
