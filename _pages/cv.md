@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-[PDF](URTE_ADO_CV.pdf)
+Reach out to me at: urte.adomaityte [ at ] gmail.com and I will be happy to provide you with a copy!
 
