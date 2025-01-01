@@ -10,7 +10,7 @@ author_profile: true
 ### Graduate Teaching Assistant at King's College London (2021-)
 
 - Numerical and Computational Methods with Python -- final-year BSc module on basic numerical topics such as solution of non-linear equations, approximation of functions by polynomials, numerical differentiation and integration, numerical solution of ODEs. Algorithm analysis via rates of convergence and error estimation.
-- Econophysics -- MSc module, tutorials effectively a journal club with papers to read every week assigned by [Prof. Tiziana do Matteo](https://www.kcl.ac.uk/people/tiziana-di-matteo)
+- Econophysics -- MSc module, tutorials effectively a journal club with papers to read every week assigned by [Prof. Tiziana di Matteo](https://www.kcl.ac.uk/people/tiziana-di-matteo)
 - Statistics for Finance -- MSc module, common families of distributions in financial models, linear regression, time series models, parameter estimation (including least squares and maximum likelihood), simulation.
 - Calculus I&II, Probability and Statistics I -- first-year BSc modules
 
