@@ -10,6 +10,7 @@ redirect_from:
 Hi! I am a PhD candidate in Applied Mathematics working with [Gabriele Sicuro](https://gsicuro.github.io/) and [Pierpaolo Vivo](https://quantlaw.co.uk/#team) at the [Disordered Systems Group](https://dissyskcl.github.io/) at King's College London. I am also lucky enough to collaborate with researchers at École Normale Supérieure, École Polytechnique Fédérale de Lausanne, the Flatiron Institute and TU Munich.
 
 <strong>Research interests:</strong>
+- Statistical mechanics for learning and inference
 - High-dimensional asymptotics in machine learning
 - Robust statistics
 - Message-passing algorithms for statistical inference in high dimensions
