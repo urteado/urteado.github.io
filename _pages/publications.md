@@ -5,6 +5,8 @@ author_profile: true
 permalink: /publications/
 
 ---
+### Preprints:
+- &quot;PCA recovery thresholds in low-rank matrix inference with sparse noise&quot;, Adomaityte, U., Sicuro, G., Vivo, P., [arxiv](https://sites.google.com/view/heavy-tails-ml-2023/home) 
 
 ### Peer-reviewed:
 
