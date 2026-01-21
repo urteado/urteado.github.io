@@ -17,6 +17,6 @@ Hi! I am a PhD candidate in Applied Mathematics working with [Gabriele Sicuro](h
 - Agent-based modelling of socioeconomic phenomena
 
 
-Previously I obtained a MSc in Applied Mathematics from Imperial College London which culminated in a research project on agent-based modelling of opinion formation at the [Bertrand Lab](https://thibaultbertrand.com/), headed by Thibault Bertrand and in collaboration with Prof. Grigorios Pavliotis. I also hold a BA (Hons) Mathematics and Philosophy from King's College London, with a strong focus on applied mathematics, philosophy of language and logic.
+Previously I obtained a MSc in Applied Mathematics from Imperial College London which culminated in a research project on agent-based modelling of opinion formation at the [Bertrand Lab](https://thibaultbertrand.com/), headed by Dr. Thibault Bertrand and in collaboration with Prof. Grigorios Pavliotis. I also hold a BA (Hons) Mathematics and Philosophy from King's College London, with a strong focus on applied mathematics, philosophy of language and logic.
 
 
